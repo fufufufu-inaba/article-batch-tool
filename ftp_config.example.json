@@ -1,0 +1,34 @@
+{
+  "default_profile": "server1",
+  "use_tls": false,
+  "passive": true,
+  "timeout": 30,
+  "use_dated_subdir": true,
+  "date_directory_format": "%Y%m",
+  "profiles": {
+    "server1": {
+      "host": "",
+      "port": 21,
+      "username": "",
+      "password": "",
+      "remote_upload_root": "",
+      "remote_base_dir": "",
+      "customer_directory": "",
+      "uploads_directory": "uploads",
+      "public_domain": "",
+      "public_url_prefix": "/uploads"
+    },
+    "server2": {
+      "host": "",
+      "port": 21,
+      "username": "",
+      "password": "",
+      "remote_upload_root": "",
+      "remote_base_dir": "",
+      "customer_directory": "",
+      "uploads_directory": "uploads",
+      "public_domain": "",
+      "public_url_prefix": "/uploads"
+    }
+  }
+}
