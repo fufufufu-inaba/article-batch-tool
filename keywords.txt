@@ -1,0 +1,7 @@
+# 填写自己的关键词和官网网址，每个关键词单独一行，后面的网址归属该关键词。
+# 以下只是注释示例，运行前请填入真实内容。
+# industrial pump manufacturer
+# https://example.com/
+#
+# chemical pump manufacturer
+# https://example.org/

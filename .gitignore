@@ -1,0 +1,25 @@
+# Real local FTP configuration; only the example is versioned
+ftp_config.json
+ftp_config.*.json
+!ftp_config.example.json
+.env
+.env.*
+!.env.example
+
+# Browser login state and collected company materials
+chrome_profile/
+runs/
+work_tmp/
+output/
+outputs/
+
+# Local runtime, caches and generated packages
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.zip
+build/
+dist/
+.pytest_cache/
